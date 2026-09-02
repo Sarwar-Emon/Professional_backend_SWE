@@ -1,0 +1,282 @@
+[
+  {
+    "timestamp": "2026-08-30T14:04:35.486Z",
+    "method": "GET",
+    "url": "/api/users?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-30T14:04:48.805Z",
+    "method": "GET",
+    "url": "/api/users?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T15:20:55.442Z",
+    "method": "GET",
+    "url": "/api/users?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T15:21:19.036Z",
+    "method": "GET",
+    "url": "/api/users?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:18:41.778Z",
+    "method": "GET",
+    "url": "/api/users?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:36:39.257Z",
+    "method": "GET",
+    "url": "/api/analytics",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:36:53.440Z",
+    "method": "GET",
+    "url": "/api/analytics",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:38:02.928Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:38:09.578Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:38:10.198Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:38:17.835Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:47:15.118Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "authorization": "",
+      "referer": "",
+      "origin": "null",
+      "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:47:25.638Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "authorization": "",
+      "referer": "",
+      "origin": "null",
+      "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:49:04.736Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "authorization": "",
+      "referer": "",
+      "origin": "null",
+      "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:51:54.562Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "authorization": "",
+      "referer": "",
+      "origin": "null",
+      "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:52:20.471Z",
+    "method": "GET",
+    "url": "/api/users/?token=123",
+    "ip": "::ffff:127.0.0.1",
+    "headers": {
+      "user-agent": "Thunder Client (https://www.thunderclient.com)",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:52:25.737Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "authorization": "",
+      "referer": "",
+      "origin": "null",
+      "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:52:39.848Z",
+    "method": "GET",
+    "url": "/api/users/?token=123",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "authorization": "",
+      "referer": "",
+      "origin": "",
+      "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:52:39.896Z",
+    "method": "GET",
+    "url": "/favicon.ico",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "authorization": "",
+      "referer": "http://localhost:3000/api/users/?token=123",
+      "origin": "",
+      "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+      "content-type": ""
+    }
+  },
+  {
+    "timestamp": "2026-08-31T16:52:44.303Z",
+    "method": "GET",
+    "url": "/api/analytics/user-agents?token=123",
+    "ip": "::1",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36",
+      "authorization": "",
+      "referer": "",
+      "origin": "null",
+      "accept-language": "en-GB,en-US;q=0.9,en;q=0.8",
+      "content-type": ""
+    }
+  }
+]

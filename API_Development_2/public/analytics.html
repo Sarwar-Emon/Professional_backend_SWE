@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Agent Analytics</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <canvas id="myChart"></canvas>
+
+    <script>
+        async function loadChart() {
+            const response = await fetch('http://localhost:3000/api/analytics/user-agents?token=123');
+            const data = await response.json();
+            console.log(data);
+
+            const labels = Object.keys(data);
+            const values = Object.values(data);
+
+            new Chart(document.getElementById('myChart'), {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'User Agent Count',
+                        data: values
+                    }]
+                }
+            });
+        }
+
+        loadChart();
+    </script>
+</body>
+</html>
