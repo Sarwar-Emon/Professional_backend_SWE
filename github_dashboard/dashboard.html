@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Commit Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <canvas id="myChart"></canvas>
+
+    <script>
+        async function loadChart() {
+            const response = await fetch('http://localhost:3000/api/github/Sarwar-Emon/Explainable-Network-Intrusion-Detection/commits');
+            const data = await response.json();
+            console.log(data);
+
+            const labels = Object.keys(data);
+            const values = Object.values(data);
+
+            new Chart(document.getElementById('myChart'), {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: 'Commits per Author',
+                        data: values
+                    }]
+                }
+            });
+        }
+
+        loadChart();
+    </script>
+</body>
+</html>

@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "productName": "Laptop",
+      "productPrice": 1000,
+      "productCategory": "Electronics",
+      "productRating": 4.5,
+      "productReview": "Good product"
+    },
+    {
+      "id": 2,
+      "productName": "Phone",
+      "productPrice": 500,
+      "productCategory": "Electronics",
+      "productRating": 4.2,
+      "productReview": "Nice phone"
+    },
+    {
+      "id": 3,
+      "productName": "Watch",
+      "productPrice": 100,
+      "productCategory": "Electronics",
+      "productRating": 7.2,
+      "productReview": "Beautiful Watch"
+    },
+    {
+      "id": 4,
+      "productName": "Ipad",
+      "productPrice": 1500,
+      "productCategory": "Electronics",
+      "productRating": 3.2,
+      "productReview": "Strong Ipad"
+    },
+    {
+      "id": 5,
+      "productName": "Airbuds",
+      "productPrice": 900,
+      "productCategory": "Electronics",
+      "productRating": 9.2,
+      "productReview": "grogeous Airbuds"
+    }
+  ]

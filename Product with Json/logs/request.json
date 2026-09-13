@@ -1,0 +1,57 @@
+[
+  {
+    "method": "GET",
+    "url": "/api/products",
+    "time": "2026-09-09T23:34:36.855Z"
+  },
+  {
+    "method": "GET",
+    "url": "/api/products",
+    "time": "2026-09-09T23:39:02.125Z"
+  },
+  {
+    "method": "GET",
+    "url": "/api/products",
+    "time": "2026-09-10T02:13:49.361Z"
+  },
+  {
+    "method": "GET",
+    "url": "/api/products",
+    "time": "2026-09-10T02:16:22.305Z"
+  },
+  {
+    "method": "GET",
+    "url": "/api/products",
+    "time": "2026-09-10T02:16:32.059Z"
+  },
+  {
+    "method": "GET",
+    "url": "/api/products",
+    "time": "2026-09-10T02:19:16.613Z",
+    "agent": "Thunder Client (https://www.thunderclient.com)"
+  },
+  {
+    "method": "GET",
+    "url": "/api/products?token=123",
+    "time": "2026-09-11T02:30:10.005Z",
+    "agent": "Thunder Client (https://www.thunderclient.com)"
+  },
+  {
+    "method": "GET",
+    "url": "/api/products?token=123",
+    "time": "2026-09-11T02:31:46.381Z",
+    "agent": "curl/8.7.1"
+  },
+  {
+    "method": "GET",
+    "url": "/api/products?token=124",
+    "time": "2026-09-11T02:32:49.894Z",
+    "agent": "Thunder Client (https://www.thunderclient.com)"
+  },
+  {
+    "method": "GET",
+    "url": "/api/products?token=123",
+    "time": "2026-09-11T02:32:54.028Z",
+    "agent": "Thunder Client (https://www.thunderclient.com)"
+  }
+]
